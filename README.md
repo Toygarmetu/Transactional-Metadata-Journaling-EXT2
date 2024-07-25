@@ -2,7 +2,8 @@ This program implements in EXT2 Filesystem:
 
 mkdir: for creating an empty directory.      
 rmdir: for removing an empty directory.     
-rm: removing a regular file.
+rm: removing a regular file.    
+ed: modifying a regular file.
 
 Also implements Journaling on EXT2 to behave like an EXT3:    
 
